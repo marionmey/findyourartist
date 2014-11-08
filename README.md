@@ -23,10 +23,5 @@ Concernant la gestion des dépendances, c'est Maven qui est utilisé via Eclipse
 Enfin, le framework JQuery est aussi utilisé afin de simplifier les instructions Javascript.
 L'affichage de la map est géré par l'API Maps v3.
 
-L'affichage des marqueurs Google Maps s'effectue correctement lorsque nous lui envoyons 
-des données en dur, cependant, bien qu'il n'y ait pas d'erreur, les marqueurs ne sont pas
-générés lorsqu'ils proviennent de la sélection de l'utilisateur.
-Les fonctionnalités souhaitées sont néanmoins présentes puisqu'en fonction de l'adresse du
-salon de tatouage, provenant de la base de données, l'application génère les coordonnées
-de latitude et longitude (affichées en dur en bas de la Google Map).
-On peut donc dire qu'il s'agirait d'un axe d'amélioration.
+En fonction des critères de recherche de l'utilisateur, l'application génère les coordonnées
+de latitude et longitude des adresses provenant de la base de données.
