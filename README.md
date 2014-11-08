@@ -1,4 +1,4 @@
-findyourartist
+find your artist
 ==============
 
 Tout d'abord, je suis partie sur l'idée d'un projet en C#/.NET.
