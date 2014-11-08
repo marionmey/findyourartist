@@ -10,7 +10,6 @@ install
 	username: root
 	password:
 
-URL de téléchargement: https://github.com/marionmey/findyourartist
 URL de l'application web: http://localhost:8080/web
 
 
